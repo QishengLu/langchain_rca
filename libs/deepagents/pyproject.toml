@@ -10,6 +10,10 @@ dependencies = [
     "langchain>=1.1.0,<2.0.0",
     "langchain-core>=1.1.0,<2.0.0",
     "wcmatch",
+    "duckdb",
+    "pandas",
+    "langchain-openai",
+    "python-dotenv",
 ]
 
 
